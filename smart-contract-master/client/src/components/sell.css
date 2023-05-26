@@ -1,0 +1,42 @@
+.sell {
+    font-family: 'Teko',
+        sans-serif;
+    display: flex;
+}
+
+.sell1 h1 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.sell1 .sell-name label {
+    font-size: 15px;
+}
+
+.sell1 .sell-name input {
+    padding: 20px 20px;
+}
+
+.sell1 .sell-price label {
+    font-size: 15px;
+}
+
+.sell1 .sell-price input {
+    padding: 20px 20px;
+}
+
+.sell1 button {
+    width: 150px;
+    font-size: 20px;
+    margin-left: 30%;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.h5k {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 30%;
+}
